@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 95  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+<!-- [[experience]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""
@@ -30,15 +30,23 @@ date_format = "Jan 2006"
   * Analysing
   * Modelling
   * Deploying
-  """
+  """ -->
+[[experience]]
+  title = "TA: Self-paced Data Science Course"
+  company = "Hebrew University of Jerusalem"
+  company_url = ""
+  location = ""
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """Mentoring non-CS students with data science coursework and projects."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "TA: Undergraduate Engineering Final Projects"
+  company = "Hebrew University of Jerusalem"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2017-10-01"
+  date_end = "2019-10-01"
+  description = """TA for undergraduate computer engineering final projects workshop. Course management, assisting students with finding and framing research problems, project planning, presentation and evaluation."""
 
 +++
