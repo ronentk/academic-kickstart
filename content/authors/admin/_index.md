@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ronen Tamari
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hebrew University of Jerusalem
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in human and artificial intelligence research, and how we can better bridge between them.
 
 interests:
-- Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Grounded Cognition
+- Philosophy of Mind
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Hebrew University of Jerusalem
+    year: 2018-
+  - course: MSc in Computer Science
+    institution: Hebrew University of Jerusalem
+    year: 2017
+  - course: BSc in Computer Engineering
+    institution: Hebrew University of Jerusalem
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,19 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/rtk254
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ronen-tamari-11482189/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=AW26zZcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ronentk
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ronen_Tamari
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Exploring the borderlands of human and artificial intelligence research, and how we can better bridge between them.
+
+In particular, I'm currently interested in grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
+
+My B.Sc and M.Sc were also at Hebrew University, in computer engineering and computer science, respectively. My M.Sc thesis was on applications of hierarchical tensor decompostions towards principled neural network design, under the supervision of Amnon Shashua.
