@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "JerusML"
   organization_url = "https://www.linkedin.com/company/datatalks-jlm/"
-  title = "Neural Networks and Deep Learning"
+  title = "Organizing Committee"
   url = ""
   certificate_url = ""
   date_start = "2018-11-01"
