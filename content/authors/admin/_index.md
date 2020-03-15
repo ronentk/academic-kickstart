@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in CS (Natural Langauge Understanding)
     institution: Hebrew University of Jerusalem
     year: 2018-
-  - course: MSc in Computer Science
+  - course: MSc in CS (Deep Learning Theory)
     institution: Hebrew University of Jerusalem
     year: 2017
   - course: BSc in Computer Engineering
