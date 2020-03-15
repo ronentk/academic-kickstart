@@ -8,5 +8,5 @@ abstract: "Large-scale natural language understanding (NLU) systems have made im
 featured: true
 publication: "Bridging AI and Cognitive Science (BAICS) workshop at ICLR2020"
 url_preprint: "https://arxiv.org/abs/2003.04567"
-url_pdf: "https://arxiv.org/pdf/2003.04567.pdf"
+url_code: "https://eco-sem.github.io/"
 ---

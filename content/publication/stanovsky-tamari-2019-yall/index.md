@@ -8,6 +8,4 @@ abstract: "Distinguishing between singular and plural ``you″ in English is a c
 featured: false
 publication: "*Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)*"
 url_pdf: "https://www.aclweb.org/anthology/D19-5549"
-doi: "10.18653/v1/D19-5549"
 ---
-
