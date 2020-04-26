@@ -9,4 +9,5 @@ featured: true
 publication: "Bridging AI and Cognitive Science (BAICS) workshop at ICLR2020"
 url_preprint: "https://arxiv.org/abs/2003.04567"
 url_code: "https://eco-sem.github.io/"
+url_video: "https://baicsworkshop.github.io/program/baics_25.html"
 ---
