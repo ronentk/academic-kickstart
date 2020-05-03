@@ -76,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa. 
+I'm a PhD student in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa.
 
 In particular, I'm currently interested in embodied/grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
 
-My B.Sc and M.Sc were also at Hebrew University, in computer engineering and computer science, respectively. My M.Sc thesis was on applications of hierarchical tensor decompostions towards principled neural network design, under the supervision of Amnon Shashua.
+My B.Sc and M.Sc were also at Hebrew University, in computer engineering and computer science, respectively. My M.Sc thesis was on applications of hierarchical tensor decompositions towards principled neural network design, under the supervision of Amnon Shashua.
