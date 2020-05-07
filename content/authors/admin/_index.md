@@ -81,3 +81,5 @@ I'm a PhD student in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) 
 In particular, I'm currently interested in embodied/grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
 
 My B.Sc and M.Sc were also at Hebrew University, in computer engineering and computer science, respectively. My M.Sc thesis was on applications of hierarchical tensor decompositions towards principled neural network design, under the supervision of Amnon Shashua.
+
+Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music.
