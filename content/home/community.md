@@ -28,5 +28,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Team member of JerusML organizing committee, the Jerusalem data science / machine learning community."
 
+  [[item]]
+    organization = "Brainstorm JLM"
+    organization_url = "https://www.facebook.com/Brainstorm-JLM-111437083859285"
+    title = "Organizing Committee"
+    url = ""
+    certificate_url = ""
+    date_start = "2020-01-01"
+    date_end = ""
+    description = "Team member of Brainstorm JLM organizing committee, the Jerusalem chapter of BrainstormIL, a community of students in neuro-science/tech related fields."
+
 
 +++
