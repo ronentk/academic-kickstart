@@ -8,4 +8,10 @@ abstract: "While natural language understanding (NLU) is advancing rapidly, toda
 featured: true
 publication: "ACL2020 (Theme Track)"
 url_preprint: "https://arxiv.org/abs/2005.00311"
+url_pdf: "https://www.aclweb.org/anthology/2020.acl-main.559/"
+links:
+  - icon_pack: fab
+    icon: None
+    name: Blog version
+    url: 'post/acl2020-pop-sci/'
 ---
