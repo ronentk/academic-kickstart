@@ -13,5 +13,5 @@ links:
   - icon_pack: fab
     icon: None
     name: Blog version
-    url: 'post/acl2020-pop-sci/'
+    url: 'post/acl2020-blog/'
 ---
