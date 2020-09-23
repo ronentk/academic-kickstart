@@ -5,6 +5,16 @@ featured: true
 summary: "Blog version of our upcoming ACL2020 Theme Track paper"
 ---
 
+> "A SONG of the rolling earth, and of words according,
+>
+> Were you thinking that those were the words, those upright lines?
+those curves, angles, dots?
+>
+> No, those are not the words, the substantial words are in the
+ground and sea,
+>
+>They are in the air, they are in you." -- Walt Whitman
+
 Natural language processing (NLP) has become one of AI’s hottest research areas.  Deep learning algorithms drawing upon massive amounts of data and specialized hardware have achieved impressive empirical progress, powering applications from multilingual machine translation to wise-cracking chatbots.
 However, state-of-the-art NLP algorithms continue to struggle with tasks that schoolchildren find trivial. For example, consider the following story: “John dropped the wine glass on the coffee table and watched with dismay as it shattered into pieces.”
 
@@ -14,7 +24,7 @@ Perhaps the problem is the way that these algorithms learn about the world. Typi
 
 [Language (Re)modelling: Towards Embodied Language Understanding](https://www.aclweb.org/anthology/2020.acl-main.559/) aims to integrate ideas from ECL into current NLP research. The work highlights two crucial cognitive capabilities missing in today’s NLP methods: mental simulation and metaphoric interpretation.
 
-According to ECL’s [Simulation Hypothesis](http://www.cogsci.ucsd.edu/~bkbergen/papers/ESM.pdf), language users come to the text armed with vast world knowledge and a powerful imagination that facilitates conjuring detailed simulations of the world to achieve language understanding, such as knowing what happens when a wine glass drops. To simulate a more abstract concept like “career hopes”, ECL’s [Conceptual Metaphor Theory](https://en.wikipedia.org/wiki/Conceptual_metaphor) hypothesizes that using metaphor humans creatively construe more abstract concepts in terms of more concrete concepts. In other words, language users imagine concepts that are hard to simulate (career hopes) in terms of those that are easier to simulate. Construing career hopes as a physical object makes sense, since their “breaking” evokes the notion that they may be hard to recover.
+According to ECL’s [Simulation Hypothesis](http://www.cogsci.ucsd.edu/~bkbergen/papers/ESM.pdf), language users come to the text armed with vast world knowledge and a powerful imagination that facilitates conjuring detailed simulations of the world to achieve language understanding, such as knowing what happens when a wine glass drops. To simulate a more abstract concept like “career hopes”, ECL’s [Conceptual Metaphor Theory](https://en.wikipedia.org/wiki/Conceptual_metaphor) hypothesizes that, through metaphor, humans creatively construe more abstract concepts in terms of more concrete concepts. In other words, language users imagine concepts that are hard to simulate (career hopes) in terms of those that are easier to simulate. Construing career hopes as a physical object makes sense, since their “breaking” evokes the notion that they may be hard to recover.
 
 Importantly, both mental simulation and metaphoric interpretation derive from interaction in the world rather than via static text. Accordingly, the paper argues for designing cognitively-inspired architectures, including diverse simulation environments through which the next generation of AI agents can begin learning the world knowledge necessary for more human-like language understanding.
 Ultimately, the deeply embodied nature of language implies that we needn’t worry about AI poets surpassing humans in writing skill anytime soon. Rather, it suggests that a tighter integration between contemporary cognitive science and NLP research is a promising approach towards AI assistants with a better understanding of human language.

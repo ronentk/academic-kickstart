@@ -9,6 +9,10 @@ featured: true
 publication: "ACL2020 (Theme Track)"
 url_preprint: "https://arxiv.org/abs/2005.00311"
 url_pdf: "https://www.aclweb.org/anthology/2020.acl-main.559/"
+url_video: "https://slideslive.com/38929397/language-remodelling-towards-embodied-language-understanding"
+url_poster: "publication/tamari-2020-remodelling/poster.pdf"
+
+
 links:
   - icon_pack: fab
     icon: None
