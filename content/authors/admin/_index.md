@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa.
+I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa.
 
 In particular, I'm currently interested in embodied/grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
 
