@@ -1,8 +1,8 @@
 ---
-title: "Distribution Based Compositionality Assessment (DBCA) write-up"
+title: "Distribution Based Compositionality Assessment (DBCA)"
 date: 2020-10-19
 featured: true
-summary: "Write-up of DBCA paper"
+summary: "Blog post write-up of DBCA paper (Keysers et. al, 2020)"
 math: true
 highlight: true
 ---
@@ -16,7 +16,7 @@ Compositional generalization, or models' lack of it, is a hot topic in NLP right
 
 How to even measure the ability for compositional generalization? Like so many concepts in natural language, intuitive explanations of compositional generalization are easy, but more precise definitions can be notoriously elusive. Many works (e.g., [SCAN](https://arxiv.org/abs/1711.00350), [gSCAN](https://arxiv.org/abs/2003.05161)) adopt a simple approach of holding out some set of test samples which differ systematically from those seen in training. For example, showing a model what it means to "walk while spinning" and "push the circle" at train time, and then testing it on "push the circle while spinning". While such approaches indeed test for compositional generalization, a limitation is that the holding out classes of samples is somewhat heuristic and hand-engineered, and doesn't yield a precise, numeric or canonical quantification of train-test differences.
 
-Fortunately, a cool [paper](https://openreview.net/forum?id=SygcCnNKwr) presented this year at ICLR2020 makes some nice progress on this question. The paper, out of Google Brain, is called *"Measuring Compositional Generalization: A Comprehensive Method on Realistic Data"*. They propose a method, Distribution Based Compositionality Assessment (DBCA), which allows constructing and quantifying the compositional-generalization gap between train and test splits.
+Fortunately, a cool [paper](https://openreview.net/forum?id=SygcCnNKwr) presented this year at ICLR2020 makes some nice progress on this question. The paper, out of Google Brain, is called *"Measuring Compositional Generalization: A Comprehensive Method on Realistic Data"*. They propose a method, Distribution Based Compositionality Assessment (DBCA), which allows constructing and more precisely quantifying the compositional-generalization gap between train and test splits.
 
 I really liked the paper and indeed found it comprehensive (including a 20+ page appendix), so this is my attempt at a walk-through and accompaniment to my (un-offical) [re-implementation](https://github.com/ronentk/dbca-splitter).
 
@@ -86,13 +86,13 @@ branching factor up to 2, plus linear sub-graphs of all sizes (from personal cor
 
     > ensures that when calculating compound divergence based on a weighted subset of compounds, the most representative compounds are taken into account, while avoiding double-counting compounds whose frequency of occurrence is already largely explainable by the frequency of occurrence of one of its super-compounds.
 
-    **Compound weight:** Given the weights as defined above, we can calculate the un-normalized weight of a compound $G$ as $W\left(G\right)=\sum_{R\in T}W\left(G,R\right)$. (assuming $W\left(G,R\right)=0$ if $G$ doesn't occur in $R$).
+    **Compound weight:** Given the weights as defined above, we can calculate the un-normalized weight of a compound $G$ as $W\left(G\right)=\sum_{R\in T}W\left(G,R\right)$. We assume that $W\left(G,R\right)=0$ if $G$ doesn't occur in $R$.
 
     In practice, in CFQ the graphs in $\mathbb{G}$ are then sorted according to descending $W$ and the top 100,000 are kept.
 
     **Probability of a compound:** To get the normalized probability, we can simply divide by the total sum over all of the weights for all compounds in the sample set:
 
-    $$P\left(G\right)=\frac{W\left(G\right)}{\sum_{G'\in T}W\left(G\right)}$$
+    $$P\left(G\right)=\frac{W\left(G\right)}{\sum_{G'\in\mathbb{G}}W\left(G'\right)}$$
 
     ### Divergence
 
@@ -160,4 +160,4 @@ So let's look at the basic pseudocode to get a feel for the flow.
 
 # Repo
 
-Feel free to check out (and improve) my implementation at https://github.com/ronentk/dbca-splitter!
+Feel free to check out (and improve) my implementation at https://github.com/ronentk/dbca-splitter !
