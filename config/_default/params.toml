@@ -269,3 +269,9 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
