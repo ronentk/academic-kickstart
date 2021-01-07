@@ -14,4 +14,5 @@ Our framework presents several directions for future work, including the modelli
 featured: true
 publication: "WordPlay Workshop @ NeurIPS2020"
 url_preprint: "https://wordplay-workshop.github.io/modern/assets/pdfs/10.pdf"
+url_video: "https://slideslive.com/38942710/processlevel-representation-of-scientific-protocols-with-a-textbased-game-annotation-interface"
 ---

@@ -29,7 +29,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://slideslive.com/38942710/processlevel-representation-of-scientific-protocols-with-a-textbased-game-annotation-interface"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -48,4 +48,3 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-Link to video to be added after conference.
