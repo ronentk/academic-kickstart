@@ -1,5 +1,5 @@
 ---
-title: "Process-Level Representation of Scientific Protocols with a Text-Based Game Annotation Interface"
+title: "Process-Level Representation of Scientific Protocols with Interactive Annotation"
 date: 2021-04-16
 publishDate: 2021-01-27T09:10:08.014852Z
 authors: ["Ronen Tamari", "Fan Bai", "Alan Ritter", "Gabriel Stanovsky"]
