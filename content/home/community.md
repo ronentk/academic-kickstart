@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,13 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACL"
+  organization_url = "https://www.aclweb.org/portal/"
+  title = "Reviewer"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-01"
+  date_end = ""
+  description = "ACL (21'), NAACL (21')"
+
+[[item]]
   organization = "JerusML"
   organization_url = "https://www.linkedin.com/company/datatalks-jlm/"
   title = "Organizing Committee"
   url = ""
   certificate_url = ""
   date_start = "2018-11-01"
-  date_end = ""
+  date_end = "2020-01-01"
   description = "Team member of JerusML organizing committee, the Jerusalem data science / machine learning community."
 
   [[item]]
