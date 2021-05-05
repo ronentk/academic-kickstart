@@ -10,4 +10,5 @@ publication: "EACL 2021"
 url_preprint: "https://arxiv.org/abs/2101.10244"
 url_pdf: "https://www.aclweb.org/anthology/2021.eacl-main.187/"
 url_code: "https://textlabs.github.io/"
+url_video: "https://slideslive.com/38954461/processlevel-representation-of-scientific-protocols-with-interactive-annotation"
 ---
