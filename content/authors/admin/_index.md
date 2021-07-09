@@ -83,3 +83,7 @@ During my PhD, I've also been fortunate to have wonderful summer internships at 
 My B.Sc and M.Sc were also at Hebrew University, in computer engineering and computer science, respectively. My M.Sc thesis was on applications of hierarchical tensor decompositions towards principled neural network design, under the supervision of Amnon Shashua.
 
 Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music.
+
+**🗞️ News**
+
+- June 2021: started a summer internship at AI2 with Kyle Richardson on the Aristo team.
