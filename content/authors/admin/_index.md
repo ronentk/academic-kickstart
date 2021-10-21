@@ -85,5 +85,5 @@ My B.Sc and M.Sc were also at Hebrew University, in computer engineering and com
 Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music.
 
 **🗞️ News**
-
+- September 2021: starting visiting research program with Prof. Judith Fan's [Cognitive Tools](https://cogtoolslab.github.io/) computational cognitive science/psychology lab at UCSD!
 - June 2021: started a summer internship at AI2 with Kyle Richardson on the Aristo team.
