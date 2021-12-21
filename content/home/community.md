@@ -26,7 +26,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2021-01-01"
   date_end = ""
-  description = "ACL (21'), NAACL (21')"
+  description = "ACL (21' - outstanding reviewer), NAACL (21')"
 
 [[item]]
   organization = "JerusML"

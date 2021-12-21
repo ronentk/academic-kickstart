@@ -60,6 +60,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ronen_Tamari
+- icon: pen-fancy
+  icon_pack: fas
+  link: https://papyrus.so/@simplicity-complex
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,13 +79,13 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa. In particular, I'm currently interested in embodied/grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
+I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa. In particular, I'm interested in embodied/grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
 
-During my PhD, I've also been fortunate to have wonderful summer internships at the Allen Institute for Artificial Intelligence in Seattle (mentored by Gabi Stanovsky), and the RIKEN institute in Japan (under Prof. Yuji Matsumoto).
+During my PhD, I've also been fortunate to have 3 wonderful summer internships: 2 at the Allen Institute for Artificial Intelligence in Seattle (mentored by [Gabi Stanovsky](https://gabrielstanovsky.github.io/) and [Kyle Richardson](https://www.nlp-kyle.com/)), and one with the RIKEN institute in Japan (under Prof. [Yuji Matsumoto](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html)).
 
-My B.Sc and M.Sc were also at Hebrew University, in computer engineering and computer science, respectively. My M.Sc thesis was on applications of hierarchical tensor decompositions towards principled neural network design, under the supervision of Amnon Shashua.
+Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music. I'm also increasingly "going meta" and engaging in socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology for broader social change.
 
-Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music.
+For some random musings on the meaning of life, the universe and everything, check out [my blog](https://papyrus.so/@simplicity-complex) (Hebrew).
 
 **🗞️ News**
 - September 2021: starting visiting research program with Prof. Judith Fan's [Cognitive Tools](https://cogtoolslab.github.io/) computational cognitive science/psychology lab at UCSD!
