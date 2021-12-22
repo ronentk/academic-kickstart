@@ -83,7 +83,7 @@ I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/
 
 During my PhD, I've also been fortunate to have 3 wonderful summer internships: 2 at the Allen Institute for Artificial Intelligence in Seattle (mentored by [Gabi Stanovsky](https://gabrielstanovsky.github.io/) and [Kyle Richardson](https://www.nlp-kyle.com/)), and one with the RIKEN institute in Japan (under Prof. [Yuji Matsumoto](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html)).
 
-Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music. I'm also increasingly "going meta" and engaging in socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology for broader social change.
+Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music. I'm also increasingly "going meta" and engaging in socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology towards broader social change.
 
 For some random musings on the meaning of life, the universe and everything, check out [my blog](https://papyrus.so/@simplicity-complex) (Hebrew).
 
