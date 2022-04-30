@@ -19,6 +19,18 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "NeuroAI-Israel"
+  organization_url = "https://www.facebook.com/groups/4086086128168720"
+  title = "Founding Member"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-12-01"
+  date_end = ""
+  description = "Founding member of NeuroAI Israel, an online community exploring the intersections of natural and artificial intelligence research."
+
+
+
+[[item]]
   organization = "ACL"
   organization_url = "https://www.aclweb.org/portal/"
   title = "Reviewer"

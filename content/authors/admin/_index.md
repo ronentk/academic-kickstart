@@ -22,8 +22,9 @@ bio: Interested in human and artificial intelligence research, and how we can be
 
 interests:
 - Computational Linguistics
-- Grounded Cognition
-- Philosophy of Mind
+- Grounded & Embodied Cognition
+- Meta-{science, governance, society}
+- Tools for thought and collaboration
 
 education:
   courses:
@@ -83,7 +84,7 @@ I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/
 
 During my PhD, I've also been fortunate to have 3 wonderful summer internships: 2 at the Allen Institute for Artificial Intelligence in Seattle (mentored by [Gabi Stanovsky](https://gabrielstanovsky.github.io/) and [Kyle Richardson](https://www.nlp-kyle.com/)), and one with the RIKEN institute in Japan (under Prof. [Yuji Matsumoto](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html)).
 
-Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music. I'm also increasingly "going meta" and engaging in socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology towards broader social change.
+Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music. I'm passionate about socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology towards broader social change. I also do research at [DAOStack](https://daostack.io/) on next-generation collaboration platforms for creating and harnessing collective intelligence.
 
 For some random musings on the meaning of life, the universe and everything, check out [my blog](https://papyrus.so/@simplicity-complex) (Hebrew).
 
