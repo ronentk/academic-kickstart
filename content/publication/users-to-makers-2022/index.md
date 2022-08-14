@@ -12,4 +12,10 @@ url_preprint: "https://arxiv.org/abs/2205.06345"
 url_pdf: "https://dl.acm.org/doi/10.1145/3511095.3536361"
 url_slides: "publication/users-to-makers-2022/slides.pdf"
 url_video: "https://youtu.be/PQerH4kCaSA"
+
+links:
+  - icon_pack: fab
+    icon: None
+    name: Livestream discussion
+    url: 'https://www.youtube.com/watch?v=J7cu4slfIBA'
 ---

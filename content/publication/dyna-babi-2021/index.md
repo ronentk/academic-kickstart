@@ -9,6 +9,7 @@ abstract: "While neural language models often perform surprisingly well on natur
 featured: true
 publication: "StarSEM Conference (@NAACL2022)"
 url_preprint: "https://arxiv.org/abs/2112.00086"
+url_pdf: "https://aclanthology.org/2022.starsem-1.9/"
 url_code: "https://dyna-babi.notion.site/dyna-babi/Dyna-bAbI-project-page-3585f82147734f5a9c6790e0152e8552"
 
 ---
