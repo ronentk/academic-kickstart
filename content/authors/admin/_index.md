@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in human and artificial intelligence research, and how we can better bridge between them.
+bio: Ronen Tamari. Interested in human and artificial intelligence research, and how we can better bridge between them.
 
 interests:
 - Computational Linguistics
@@ -49,6 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rtk254
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.social/@ronent
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ronen-tamari-11482189/
@@ -73,6 +76,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -84,10 +90,13 @@ I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/
 
 During my PhD, I've also been fortunate to have 3 wonderful summer internships: 2 at the Allen Institute for Artificial Intelligence in Seattle (mentored by [Gabi Stanovsky](https://gabrielstanovsky.github.io/) and [Kyle Richardson](https://www.nlp-kyle.com/)), and one with the RIKEN institute in Japan (under Prof. [Yuji Matsumoto](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html)).
 
-Outside of the lab, I'm into various other embodied pursuits like trekking, cycling, yoga and world music. I'm passionate about socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology towards broader social change. I also do research at [DAOStack](https://daostack.io/) on next-generation collaboration platforms for creating and harnessing collective intelligence.
+Outside of the lab, I'm also passionate about socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology towards broader social change. I'm co-founder of [Common SenseMakers](https://www.csensemakers.com/), a community focused on research and development around systems for distributed collective sensemaking. Together, we're working on technology and practices to help people and groups navigate information overload, find meaning and connection, and make sense of an increasingly complex world.
+
+I'm also into various other embodied pursuits like trekking, cycling, yoga and world music.
 
 For some random musings on the meaning of life, the universe and everything, check out [my blog](https://papyrus.so/@simplicity-complex) (Hebrew).
 
 **🗞️ News**
+- February 2022: co-founded [Common SenseMakers](https://www.csensemakers.com/), a community focused on research and development around systems for distributed collective sensemaking.
 - September 2021: starting visiting research program with Prof. Judith Fan's [Cognitive Tools](https://cogtoolslab.github.io/) computational cognitive science/psychology lab at UCSD!
 - June 2021: started a summer internship at AI2 with Kyle Richardson on the Aristo team.

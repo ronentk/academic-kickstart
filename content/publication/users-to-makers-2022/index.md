@@ -11,6 +11,7 @@ publication: "ACM Hypertext and Social Media, Barcelona, 2022 (2nd place, Blue S
 url_preprint: "https://arxiv.org/abs/2205.06345"
 url_pdf: "https://dl.acm.org/doi/10.1145/3511095.3536361"
 url_slides: "publication/users-to-makers-2022/slides.pdf"
+url_poster: "publication/users-to-makers-2022/poster.pdf"
 url_video: "https://youtu.be/PQerH4kCaSA"
 
 links:

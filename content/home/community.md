@@ -18,6 +18,17 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Common SenseMakers"
+  organization_url = "https://www.csensemakers.com/"
+  title = "Founding Member"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-01-01"
+  date_end = ""
+  description = "Founding member of Common SenseMakers, a community working on research and development of distributed protocols, practices, and tools for collective sensemaking."
+
 [[item]]
   organization = "NeuroAI-Israel"
   organization_url = "https://www.facebook.com/groups/4086086128168720"
