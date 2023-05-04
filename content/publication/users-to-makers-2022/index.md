@@ -17,6 +17,11 @@ url_video: "https://youtu.be/PQerH4kCaSA"
 links:
   - icon_pack: fab
     icon: None
+    name: Twitter
+    url: 'https://twitter.com/rtk254/status/1528742051461865472'
+  - icon_pack: fab
+    icon: None
     name: Livestream discussion
     url: 'https://www.youtube.com/watch?v=J7cu4slfIBA'
+
 ---
