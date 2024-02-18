@@ -31,4 +31,4 @@ Despite their not-quite-intentional hostility, greed can make you do pretty awfu
 
 ![Untitled](Blog%20version%20ba4efd5119884102979f9b725fb4376e/Untitled%204.png)
 
-However, with capitalism reaching deeper and deeper into our psyche in search of new territory to exploit, what will be left of us in a few decades is anyone’s guess 🤷
+However, with [capitalism reaching deeper and deeper into our psyche in search of new territory to exploit](https://www.sup.org/books/title/?id=28816), what will be left of us in a few decades is anyone’s guess 🤷

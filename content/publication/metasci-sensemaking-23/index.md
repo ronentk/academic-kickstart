@@ -10,5 +10,6 @@ featured: true
 publication: "Metascience Conference 2023"
 url_preprint: "https://osf.io/preprints/metaarxiv/9nb3u/"
 url_poster: "publication/metasci-sensemaking-23/poster.pdf"
+url_slides: "talk/nanopubs_110723/slides.pdf"
 
 ---

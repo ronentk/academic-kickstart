@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Researcher & Entrepreneur
 
 # Organizations/Affiliations
 organizations:
-- name: Hebrew University of Jerusalem
+- name: Astera Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ronen Tamari. Interested in human and artificial intelligence research, and how we can better bridge between them.
+bio: Ronen Tamari. Interested in prosocial tech, artificial x natural x collective intelligence
 
 interests:
-- Computational Linguistics
-- Grounded & Embodied Cognition
+- Computational Linguistics & Semantics
+- Embodied Cognition
 - Meta-{science, governance, society}
 - Tools for thought and collaboration
 
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in CS (Natural Langauge Understanding)
     institution: Hebrew University of Jerusalem
-    year: 2018-
+    year: 2018-2023
   - course: MSc in CS (Deep Learning Theory)
     institution: Hebrew University of Jerusalem
     year: 2017
@@ -45,13 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ronent at cs dot huji dot ac dot il'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ronen at astera dot org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rtk254
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@ronent
+- icon: skyatlas
+  icon_pack: fab
+  link: https://staging.bsky.app/profile/ronent.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ronen-tamari-11482189/
@@ -61,9 +64,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ronentk
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Ronen_Tamari
 - icon: pen-fancy
   icon_pack: fas
   link: https://papyrus.so/@simplicity-complex
@@ -86,17 +86,17 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD candidate in the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, under the supervision of Dafna Shahaf (HUJI) and Reut Tsarfaty (Bar Ilan University/Allen Institute for AI). Interested in how human intelligence can inform artificial intelligence, and vice versa. In particular, I'm interested in embodied/grounded cognition research and how it may help in building deeper language understanding and higher level cognition into AI systems.
+I’m a researcher and entrepreneur working on distributed collective intelligence systems to help us think better, together. I’m currently an [Entrepreneur-in-Residence](https://astera.org/upgrading-scientific-dialogue/) in the [Astera Institute](https://astera.org/). We’re developing [Sensemaking Networks](https://paragraph.xyz/@sense-nets/sense-nets-intro), a new kind of social network combining AI and [semantic nanopublishing](https://nanopub.net/), to improve how we collectively curate, evaluate, disseminate and discuss scientific research.
 
-During my PhD, I've also been fortunate to have 3 wonderful summer internships: 2 at the Allen Institute for Artificial Intelligence in Seattle (mentored by [Gabi Stanovsky](https://gabrielstanovsky.github.io/) and [Kyle Richardson](https://www.nlp-kyle.com/)), and one with the RIKEN institute in Japan (under Prof. [Yuji Matsumoto](https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html)).
+I finished my PhD at the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, where my research focused on cognitive-inspired computational models of natural language understanding. I’m particularly interested in [embodied](https://en.wikipedia.org/wiki/Embodied_cognition) and [stigmergic](https://www.sciencedirect.com/science/article/abs/pii/S1389041707000290) cognition, and the role of learning environments in shaping human and machine intelligence.
 
-Outside of the lab, I'm also passionate about socio-technical activism (e.g., [RadicalXChange](https://www.radicalxchange.org/)) for building more useful and equitable technology towards broader social change. I'm co-founder of [Common SenseMakers](https://www.csensemakers.com/), a community focused on research and development around systems for distributed collective sensemaking. Together, we're working on technology and practices to help people and groups navigate information overload, find meaning and connection, and make sense of an increasingly complex world.
+I’m passionate about sociotechnical activism and building for impactful pro-social change! I’m a co-founder of [Common SenseMakers](https://www.csensemakers.com/), a community focused on research and development around distributed collective sensemaking. We’re working on technology and practices to help people and groups navigate information overload, find meaning and connection, and make sense of an increasingly complex world.
 
 I'm also into various other embodied pursuits like trekking, cycling, yoga and world music.
 
 For some random musings on the meaning of life, the universe and everything, check out [my blog](https://papyrus.so/@simplicity-complex) (Hebrew).
 
 **🗞️ News**
-- February 2022: co-founded [Common SenseMakers](https://www.csensemakers.com/), a community focused on research and development around systems for distributed collective sensemaking.
-- September 2021: starting visiting research program with Prof. Judith Fan's [Cognitive Tools](https://cogtoolslab.github.io/) computational cognitive science/psychology lab at UCSD!
-- June 2021: started a summer internship at AI2 with Kyle Richardson on the Aristo team.
+- December 2023: Joining Astera Institute as Entrepreneur-in-Residence!
+- December 2023: Completed PhD! 🎉
+- February 2022: Co-founded [Common SenseMakers](https://www.csensemakers.com/)🚀

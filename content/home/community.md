@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 115  # Order that this section will appear.
 
 title = "Community"
 subtitle = ""
@@ -18,6 +18,14 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Wordplay Workshop (@ACL)"
+  organization_url = "https://wordplay-workshop.github.io/"
+  title = "Workshop Co-organizer"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-08-12"
+  description = ""
 
 [[item]]
   organization = "Common SenseMakers"
@@ -28,17 +36,6 @@ date_format = "2006"
   date_start = "2022-01-01"
   date_end = ""
   description = "Founding member of Common SenseMakers, a community working on research and development of distributed protocols, practices, and tools for collective sensemaking."
-
-[[item]]
-  organization = "NeuroAI-Israel"
-  organization_url = "https://www.facebook.com/groups/4086086128168720"
-  title = "Founding Member"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-12-01"
-  date_end = ""
-  description = "Founding member of NeuroAI Israel, an online community exploring the intersections of natural and artificial intelligence research."
-
 
 
 [[item]]
@@ -61,15 +58,6 @@ date_format = "2006"
   date_end = "2020-01-01"
   description = "Team member of JerusML organizing committee, the Jerusalem data science / machine learning community."
 
-  [[item]]
-    organization = "Brainstorm JLM"
-    organization_url = "https://www.facebook.com/Brainstorm-JLM-111437083859285"
-    title = "Organizing Committee"
-    url = ""
-    certificate_url = ""
-    date_start = "2020-01-01"
-    date_end = ""
-    description = "Team member of Brainstorm JLM organizing committee, the Jerusalem chapter of BrainstormIL, a community of students in neuro-science/tech related fields."
 
 
 +++
