@@ -86,7 +86,7 @@ user_groups:
 - Visitors
 ---
 
-I’m a researcher and entrepreneur working on distributed collective intelligence systems to help us think better, together. I’m currently an [Entrepreneur-in-Residence](https://astera.org/upgrading-scientific-dialogue/) in the [Astera Institute](https://astera.org/). We’re developing [Sensemaking Networks](https://paragraph.xyz/@sense-nets/sense-nets-intro), a new kind of social network combining AI and [semantic nanopublishing](https://nanopub.net/), to improve how we collectively curate, evaluate, disseminate and discuss scientific research.
+I’m a researcher and entrepreneur working on distributed collective intelligence systems to help us think better, together. I’m currently an [Entrepreneur-in-Residence](https://astera.org/residency/open-science/) in the [Astera Institute](https://astera.org/). We’re developing [Sensemaking Networks](https://paragraph.xyz/@sense-nets/sense-nets-intro), a new kind of social network combining AI and [semantic nanopublishing](https://nanopub.net/), to improve how we collectively curate, evaluate, disseminate and discuss scientific research.
 
 I finished my PhD at the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, where my research focused on cognitive-inspired computational models of natural language understanding. I’m particularly interested in [embodied](https://en.wikipedia.org/wiki/Embodied_cognition) and [stigmergic](https://www.sciencedirect.com/science/article/abs/pii/S1389041707000290) cognition, and the role of learning environments in shaping human and machine intelligence.
 
