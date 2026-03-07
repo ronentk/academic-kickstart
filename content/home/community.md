@@ -19,6 +19,17 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Sensemaking Scenius"
+  organization_url = "https://kpaxle.mmm.page/scenius"
+  title = "Founding Member"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-01-01"
+  date_end = ""
+  description = "Founding member of the Sensemaking Scenius, a community of practice for builders, researchers, artists & activists who are trying to create a wiser internet."
+
+
+[[item]]
   organization = "Wordplay Workshop (@ACL)"
   organization_url = "https://wordplay-workshop.github.io/"
   title = "Workshop Co-organizer"

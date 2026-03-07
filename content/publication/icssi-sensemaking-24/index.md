@@ -9,7 +9,7 @@ abstract: "Sensemaking Networks is a project aiming to address three interrelate
 featured: true
 publication: "International Conference on the Science of Science and Innovation 2024"
 url_preprint: "https://osf.io/preprints/metaarxiv/wcsfa"
-url_poster: ""
+url_poster: "publication/icssi-sensemaking-24/poster.pdf"
 url_slides: ""
 
 ---

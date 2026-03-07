@@ -14,8 +14,8 @@ role: Researcher & Entrepreneur
 
 # Organizations/Affiliations
 organizations:
-- name: Astera Institute
-  url: ""
+- name: Cosmik
+  url: "https://cosmik.network/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ronen Tamari. Interested in prosocial tech, artificial x natural x collective intelligence
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ronen at astera dot org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ronen at cosmik dot network'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rtk254
@@ -54,7 +54,7 @@ social:
   link: https://mastodon.social/@ronent
 - icon: skyatlas
   icon_pack: fab
-  link: https://staging.bsky.app/profile/ronent.bsky.social
+  link: https://bsky.app/profile/ronent.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ronen-tamari-11482189/
@@ -66,7 +66,7 @@ social:
   link: https://github.com/ronentk
 - icon: pen-fancy
   icon_pack: fas
-  link: https://papyrus.so/@simplicity-complex
+  link: https://paragraph.xyz/@sense-nets
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -86,17 +86,20 @@ user_groups:
 - Visitors
 ---
 
-I’m a researcher and entrepreneur working on distributed collective intelligence systems to help us think better, together. I’m currently an [Entrepreneur-in-Residence](https://astera.org/residency/open-science/) in the [Astera Institute](https://astera.org/). We’re developing [Sensemaking Networks](https://paragraph.xyz/@sense-nets/sense-nets-intro), a new kind of social network combining AI and [semantic nanopublishing](https://nanopub.net/), to improve how we collectively curate, evaluate, disseminate and discuss scientific research.
+I’m a researcher and entrepreneur working on collective intelligence systems to help us think better, together. I co-founded [Cosmik](https://cosmik.network) where we're working on new kinds of social networks for collective sensemaking, with a particular focus on science: how can we integrate social networks into the research lifecycle to improve curation, discovery and knowledge synthesis? We're currently building [Semble](https://semble.so/), a new social knowledge network for researchers on [ATProto](https://atproto.com/).
 
-I finished my PhD at the [Hyadata Data Science Lab](http://www.hyadatalab.com/) in the Hebrew University of Jerusalem, where my research focused on cognitive-inspired computational models of natural language understanding. I’m particularly interested in [embodied](https://en.wikipedia.org/wiki/Embodied_cognition) and [stigmergic](https://www.sciencedirect.com/science/article/abs/pii/S1389041707000290) cognition, and the role of learning environments in shaping human and machine intelligence.
+My [PhD thesis](/publication/tamari-thesis-2023/) focused on cognitive-inspired computational models of natural language understanding. I’m particularly interested in [embodied](https://en.wikipedia.org/wiki/Embodied_cognition) and [stigmergic](https://www.sciencedirect.com/science/article/abs/pii/S1389041707000290) cognition, and the role of learning environments in shaping human and machine intelligence.
 
-I’m passionate about sociotechnical activism and building for impactful pro-social change! I’m a co-founder of [Common SenseMakers](https://www.csensemakers.com/), a community focused on research and development around distributed collective sensemaking. We’re working on technology and practices to help people and groups navigate information overload, find meaning and connection, and make sense of an increasingly complex world.
+I’m passionate about sociotechnical activism and building for impactful pro-social change! I’m a co-founder of the [Sensemaking Scenius](https://kpaxle.mmm.page/scenius), a community focused on research, development, design and community-building around collective sensemaking. We’re working on technology and practices to help people and groups navigate information overload, find meaning and connection, and make sense of an increasingly complex world.
 
 I'm also into various other embodied pursuits like trekking, cycling, yoga and world music.
 
-For some random musings on the meaning of life, the universe and everything, check out [my blog](https://papyrus.so/@simplicity-complex) (Hebrew).
+📚 Check out my [reading list on Semble](https://semble.so/profile/ronentk.me)!
 
 **🗞️ News**
+- November 2025: [Open alpha launch](https://blog.cosmik.network/lab-notes-001-semble-alpha) for [Semble](https://semble.so/)! 🚀
+- July 2025: [Cosmik awarded $1M grant](https://blog.cosmik.network/cosmik-grant-open-phil-astera) from [Coefficient Giving](https://coefficientgiving.org/) (formerly Open Philanthropy) and the [Astera Institute](https://astera.org/)!
+- March 2025: Completed [Astera Open Science Fellowship](https://astera.org/open-science/)
+- January 2025: Co-founded [Cosmik](https://cosmik.network) 💫
 - December 2023: Joining Astera Institute as Entrepreneur-in-Residence!
 - December 2023: Completed PhD! 🎉
-- February 2022: Co-founded [Common SenseMakers](https://www.csensemakers.com/)🚀
