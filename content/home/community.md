@@ -18,9 +18,21 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "ATProto Science"
+  organization_url = "https://atproto.science/"
+  title = "Co-founder"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-10-01"
+  date_end = ""
+  description = "Co-founder of ATProto Science, an initiative advancing the science ecosystem on the AT Protocol"
+
+
 [[item]]
   organization = "Sensemaking Scenius"
-  organization_url = "https://kpaxle.mmm.page/scenius"
+  organization_url = "https://www.scenius.space/"
   title = "Founding Member"
   url = ""
   certificate_url = ""
@@ -38,15 +50,6 @@ date_format = "2006"
   date_start = "2024-08-12"
   description = ""
 
-[[item]]
-  organization = "Common SenseMakers"
-  organization_url = "https://www.csensemakers.com/"
-  title = "Founding Member"
-  url = ""
-  certificate_url = ""
-  date_start = "2022-01-01"
-  date_end = ""
-  description = "Founding member of Common SenseMakers, a community working on research and development of distributed protocols, practices, and tools for collective sensemaking."
 
 
 [[item]]
@@ -58,17 +61,5 @@ date_format = "2006"
   date_start = "2021-01-01"
   date_end = ""
   description = "ACL (21' - outstanding reviewer), NAACL (21')"
-
-[[item]]
-  organization = "JerusML"
-  organization_url = "https://www.linkedin.com/company/datatalks-jlm/"
-  title = "Organizing Committee"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-11-01"
-  date_end = "2020-01-01"
-  description = "Team member of JerusML organizing committee, the Jerusalem data science / machine learning community."
-
-
 
 +++
