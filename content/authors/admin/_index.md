@@ -65,6 +65,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=AW26zZcAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6049-591X
 - icon: github
   icon_pack: fab
   link: https://github.com/ronentk
@@ -96,7 +99,7 @@ user_groups:
 
 **Building resilient research infrastructure requires not just new tools, but new organizational forms.** I co-founded [CAIROS](https://cairos.network/), a cooperative federation of open science projects working toward collectively stewarded research commons. I believe cooperative federation is a promising and exciting alternative to today's extractive and highly commericalized publishing system.
 
-**Collective intelligence systems can uniquely address complex and pressing challenges, but are chronically underfunded.** I am co-leading [MOSAIC](https://mosaic-program.org/) a new funding program for collective intelligence systems for science, developed via Renaissance Philanthropy's [Big if True Science accelerator](https://www.renaissancephilanthropy.org/bits).
+**Collective intelligence systems can uniquely address complex and pressing challenges, but are chronically underfunded.** I am co-leading [MOSAIC](https://mosaic-program.org/), a new funding program for collective intelligence systems for science, developed via Renaissance Philanthropy's [Big if True Science accelerator](https://www.renaissancephilanthropy.org/bits).
 
 **I still love deep research (and wish I had more time for it!)** My [PhD thesis](/publication/tamari-thesis-2023/) focused on cognitive-inspired computational models of natural language understanding. I’m particularly interested in [embodied](https://en.wikipedia.org/wiki/Embodied_cognition) and [stigmergic](https://www.sciencedirect.com/science/article/abs/pii/S1389041707000290) cognition, and the role of learning environments in shaping human and machine intelligence.
 
