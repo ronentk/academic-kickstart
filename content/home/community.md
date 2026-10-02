@@ -51,6 +51,16 @@ date_format = "2006"
   description = ""
 
 
+[[item]]
+  organization = "Infrastructure and Collaborative Ecologies Workshop (@CSCW 2026)"
+  organization_url = "https://cscw2026-infrastructure-workshop.github.io/"
+  title = "Workshop Co-organizer"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-10-11"
+  description = ""
+
+
 
 [[item]]
   organization = "ACL"

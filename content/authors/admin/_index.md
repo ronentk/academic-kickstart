@@ -90,13 +90,13 @@ user_groups:
 - Visitors
 ---
 
-**I’m a researcher and entrepreneur working on collective intelligence systems to help us think better, together.** I co-founded [Cosmik](https://cosmik.network) where we're working on new kinds of social networks for collective sensemaking, with a particular focus on science: how can we integrate social networks into the research lifecycle to improve curation, discovery and knowledge synthesis? We're currently building [Semble](https://semble.so/), a new social knowledge network for research on [ATProto](https://atproto.com/).
+**I’m a researcher and entrepreneur working on collective intelligence systems to help us think better, together.** I co-founded [Cosmik](https://cosmik.network) where we're working on new kinds of social networks for collective sensemaking, with a particular focus on science: how can we integrate social networks into the research lifecycle to improve curation, discovery and knowledge synthesis? We're currently building [Semble](https://semble.so/), a new social knowledge network for research on [AT Protocol](https://atproto.com/), the open protocol powering the Bluesky social network.
 
-**Transforming science goes beyond any one company or project — it takes an ecosystem.** I co-founded [ATProto Science](https://atproto.science/), an initiative to grow, support and coordinate the science ecosystem on ATProto. 
+**Transforming science goes beyond any one company or project — it takes an ecosystem.** I co-founded [ATProto Science](https://atproto.science/), an initiative to grow, support and coordinate the science ecosystem on the AT Protocol. 
 
 **Building resilient research infrastructure requires not just new tools, but new organizational forms.** I co-founded [CAIROS](https://cairos.network/), a cooperative federation of open science projects working toward collectively stewarded research commons. I believe cooperative federation is a promising and exciting alternative to today's extractive and highly commericalized publishing system.
 
-**I’m passionate about sociotechnical activism and building for impactful pro-social change.** I co-founded the [Sensemaking Scenius](https://scenius.space/), a community for fellow sensemakers from all walks of life. We’re working on technology and practices to help people and groups navigate information overload, find meaning and connection, and make sense of an increasingly complex world.
+**Collective intelligence systems can uniquely address complex and pressing challenges, but are chronically underfunded.** I am co-leading [MOSAIC](https://mosaic-program.org/) a new funding program for collective intelligence systems for science, developed via Renaissance Philanthropy's [Big if True Science accelerator](https://www.renaissancephilanthropy.org/bits).
 
 **I still love deep research (and wish I had more time for it!)** My [PhD thesis](/publication/tamari-thesis-2023/) focused on cognitive-inspired computational models of natural language understanding. I’m particularly interested in [embodied](https://en.wikipedia.org/wiki/Embodied_cognition) and [stigmergic](https://www.sciencedirect.com/science/article/abs/pii/S1389041707000290) cognition, and the role of learning environments in shaping human and machine intelligence.
 

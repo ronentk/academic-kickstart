@@ -1,5 +1,5 @@
 ---
-title: "Participatory Science"
+title: "Participatory science as a regenerative framework"
 event: Panel at Science Summit NYC 2026
 
 summary: "Panel on participatory research across the full research lifecycle — priorities, methods, data collection, sensemaking, dissemination, and policy."
