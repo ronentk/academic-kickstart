@@ -1,0 +1,15 @@
+// Icons not available in the bundled Font Awesome 5 (e.g. Bluesky, FA 6).
+// Usage in author social links: `icon: bluesky`, `icon_pack: custom`.
+i.custom {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask: center / contain no-repeat;
+  mask: center / contain no-repeat;
+}
+
+i.custom-bluesky {
+  -webkit-mask-image: url("/media/icons/bluesky.svg");
+  mask-image: url("/media/icons/bluesky.svg");
+}

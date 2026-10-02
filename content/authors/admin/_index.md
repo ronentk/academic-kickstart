@@ -50,8 +50,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ronen at cosmik dot network'  # For a direct email link, use "mailto:test@example.org".
-- icon: skyatlas
-  icon_pack: fab
+- icon: bluesky
+  icon_pack: custom
   link: https://bsky.app/profile/ronentk.me
 - icon: mastodon
   icon_pack: fab
