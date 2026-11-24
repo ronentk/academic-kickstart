@@ -24,11 +24,10 @@ featured: true
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   #focal_point: Right
 
-links:
 url_code: ""
 url_pdf: ""
 url_poster: ""
-url_slides: "https://ronentk.me/tlpres/sor-nov-26/"
+url_slides: "talk/seeds_renaissance_nov_26/slides.pdf"
 url_video: "https://news.lifeitself.org/p/from-users-to-sense-makers"
 
 # Markdown Slides (optional).
@@ -47,4 +46,10 @@ projects: []
 
 # Enable math on this page?
 math: true
+
+links:
+  - icon_pack: fab
+    icon: None
+    name: Canvas
+    url: 'https://ronentk.me/tlpres/sor-nov-26/'
 ---
